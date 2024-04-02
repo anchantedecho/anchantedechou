@@ -1,19 +1,19 @@
 {
-  "name": "anchantedechou",
-  "version": "1.0.2",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/anchantedecho/anchantedechou.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "anchantedecho": "^1.0.1"
-  }
+    "name": "anchantedechou",
+    "version": "1.0.3",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/anchantedecho/anchantedechou.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "anchantedecho": "^1.0.1"
+    }
 }
